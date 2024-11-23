@@ -112,3 +112,8 @@ extra:
       link: https://qm.qq.com/q/3g6zkKdta8
     - icon: fontawesome/brands/discord
       link: https://discord.gg/fluxhvh
+
+nav:
+  - Home: index.md
+  - 续费教程:
+      - Fatality续费教程: guides/FAxfjc.md
