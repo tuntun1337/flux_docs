@@ -119,6 +119,8 @@ extra:
       link: https://discord.gg/fluxhvh
 
 nav:
-  - Home: index.md
+  - 主页: index.md
   - 续费教程:
       - Fatality续费教程: guides/FAxfjc.md
+      - Nixware续费教程: guides/NIXxfjc.md
+      - NeverLose续费教程: guides/NLxfjc.md
