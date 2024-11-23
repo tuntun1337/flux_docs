@@ -121,4 +121,6 @@ extra:
 nav:
   - Home: index.md
   - 续费教程:
-      - Fatality续费教程: guides/FAxfjc.md
+      - Fatality续费教程: guides/renew/fatality.md
+      - Neverlose续费教程: guides/renew/neverlose.md
+      - Nixware续费教程: guides/renew/nixware.md
