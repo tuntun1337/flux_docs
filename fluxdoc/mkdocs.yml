@@ -1,6 +1,6 @@
-site_name: FluxHvH帮助文档
+site_name: Flux HvH™帮助文档
 site_url: https://docs.cshvh.cn/
-site_author: FluxHvH Team
+site_author: Flux-Team
 copyright: |
   Copyright &copy; FluxHvH 团队 2024
   鲁ICP备2024091044号-1
@@ -121,6 +121,6 @@ extra:
 nav:
   - 主页: index.md
   - 续费教程:
-      - Fatality续费教程: guides/FAxfjc.md
-      - Nixware续费教程: guides/NIXxfjc.md
-      - NeverLose续费教程: guides/NLxfjc.md
+      - Fatality续费教程: guides/fatality-renewal-guide.md
+      - Nixware续费教程: guides/nixware-renewal-guide.md
+      - Neverlose续费教程: guides/neverlose-renewal-guide.md
