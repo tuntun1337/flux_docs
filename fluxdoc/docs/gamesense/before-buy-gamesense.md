@@ -1,4 +1,4 @@
-# Gamesense售前须知
+# Gamesense付款前须知
 
 感谢您选择信任Flux HvH™！
 
