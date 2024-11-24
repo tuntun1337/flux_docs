@@ -1,6 +1,6 @@
 # Gamesense常见问题
 
-## 注入时出现**Disable KVA shadowing and try again**弹窗
+## 注入时出现Disable KVA shadowing and try again弹窗
 
 这是由于您的电脑没有关闭KVA Shadowing导致的，您可以通过以下步骤关闭KVA Shadowing：
 

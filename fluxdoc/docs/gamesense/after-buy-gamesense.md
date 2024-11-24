@@ -29,6 +29,7 @@ Gamesense在注册后无法更换邮箱，因此请务必保证您的邮箱地�
 - 密码 (可选)
 
 请将以上信息提供给我们的客服，最终您需要提交给我们的信息格式如下：
+
 - Username/用户名: YourUserName
 - EMail/邮箱: YourEMail@outlook.com
 - Location/地区: 中国
