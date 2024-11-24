@@ -124,3 +124,5 @@ nav:
       - Fatality续费教程: guides/fatality-renewal-guide.md
       - Nixware续费教程: guides/nixware-renewal-guide.md
       - Neverlose续费教程: guides/neverlose-renewal-guide.md
+  - 常见问题:
+      - 服务器空枪问题: faq/missing-shots-in-server.md
