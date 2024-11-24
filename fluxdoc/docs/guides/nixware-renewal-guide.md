@@ -26,7 +26,7 @@
 
 ![界面示例](../assets/images/nixware/select_language.png)
 
-## 3.进入购买界面激活密钥
+## 3. 进入购买界面激活密钥
 
 前往以下链接重新进入购买页面：  
 [https://nixware.cc/purchase-cheats](https://nixware.cc/purchase-cheats/)
