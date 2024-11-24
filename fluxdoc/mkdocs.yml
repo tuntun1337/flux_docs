@@ -125,6 +125,7 @@ nav:
       - Nixware续费教程: guides/nixware-renewal-guide.md
       - Neverlose续费教程: guides/neverlose-renewal-guide.md
       - Plague续费教程: guides/plague-renewal-guide.md
+      - 人工自动续费教程: guides/manual-renewal-guide.md
   - 常见问题:
       - 如何查找订单号: faq/how-to-find-order-number.md
       - 服务器空枪问题: faq/missing-shots-in-server.md
