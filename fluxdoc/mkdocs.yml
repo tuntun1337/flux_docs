@@ -1,8 +1,8 @@
-site_name: Flux HvH™帮助文档
+site_name: Flux HvH™ 帮助文档
 site_url: https://docs.cshvh.cn/
 site_author: Flux-Team
 copyright: |
-  Copyright &copy; FluxHvH 团队 2024
+  Copyright &copy; Flux-Team 2024
   鲁ICP备2024091044号-1
 theme:
   name: material
