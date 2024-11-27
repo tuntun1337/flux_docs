@@ -130,3 +130,4 @@ nav:
       - 如何查找订单号: faq/how-to-find-order-number.md
       - 服务器空枪问题: faq/missing-shots-in-server.md
       - 模型无法正常显示: faq/models-not-showing.md
+      - 修复Fatality崩溃: faq/fix-fatality-crashes.md
