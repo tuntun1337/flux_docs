@@ -3,7 +3,7 @@
 ## 怎么下载注入器？
 1. 登录论坛后，点击上方的红色 *Premium* 按钮进入菜单。
 
-   如果您找不到该按钮，那么说明您有可能没有有效的Gamesense续费，请参考[人工自动续费教程](../guides/manual-renewal-guide.md)完成续费。
+   如果您找不到该按钮，那么说明您有可能没有有效的续费，请参考[人工自动续费教程](../guides/manual-renewal-guide.md)完成续费。
    ![download_loader_1.png](../assets/images/gamesense/download_loader_1.png)
 
 2. 在下方菜单中找到 *Download latest client* 按钮，点击下载注入器。
@@ -11,26 +11,13 @@
    请注意，您如果您需要下载CS2的注入器，请点击 *Download CS2* 按钮。如果您需要下载CS:GO的注入器，请点击 *Download CS:GO* 按钮。它们的注入器并不通用。
    ![download_loader_2.png](../assets/images/gamesense/download_loader_2.png)
 
-   下载前请确保您的下载插件已经关闭(例如IDM、迅雷等)，否则可能会导致下载失败。Gamesense注入器在5分钟内只能下载一次，如果本次下载失败，请等待5分钟后再次尝试。
+   下载前请确保您的下载插件已经关闭(例如IDM、迅雷等)，否则可能会导致下载失败。Skeet注入器在5分钟内只能下载一次，如果本次下载失败，请等待5分钟后再次尝试。
 
 3. 下载注入器后，打开注入器，第一次登录可能需要输入用户名和密码。
 4. 当出现注入窗口时，点击Load完成注入。
 ![loader.png](../assets/images/gamesense/loader.png)
-5. Gamesense不会自动启动Steam和游戏，您需要手动启动CS2游戏。
-6. 当游戏出现卡顿时，则说明Gamesense开始注入了，稍后您将会看到Gamesense菜单。
-
-## 注入时出现Disable KVA shadowing and try again弹窗
-
-这是由于您的电脑没有关闭KVA Shadowing导致的，您可以通过以下步骤关闭KVA Shadowing：
-
-1. 右键Windows的开始按钮，选择 *终端 (管理员)* 或 *Windows PowerShell (管理员)* 或 *命令提示符 (管理员)*
-2. 在弹出的窗口中输入以下命令(您可以复制后在窗口右键粘贴)，然后按回车键：
-    ```shell
-    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v FeatureSettingsOverride /t REG_DWORD /d 3 /f
-    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v FeatureSettingsOverrideMask /t REG_DWORD /d 3 /f
-    ```
-3. 当您看到**两个** *操作成功完成* 字样时，重启电脑。
-4. 尝试注入Gamesense。
+5. Skeet不会自动启动Steam和游戏，您需要手动启动CS2游戏。
+6. 当游戏出现卡顿时，则说明Skeet开始注入了，稍后您将会看到Skeet菜单。
 
 ## 登录时提示Please prove that you are human或请证明您是人类
 这是由于您没有完成Gamesense论坛的验证码导致的。
@@ -66,6 +53,42 @@
 ![change_password_3.png](../assets/images/gamesense/change_password_3.png)
 
 请注意，密码最短为6位，且区分大小写。
+
+## 注入时出现Disable KVA shadowing and try again弹窗
+
+这是由于您的电脑没有关闭KVA Shadowing导致的，您可以通过以下步骤关闭KVA Shadowing：
+
+1. 右键Windows的开始按钮，选择 *终端 (管理员)* 或 *Windows PowerShell (管理员)* 或 *命令提示符 (管理员)*
+2. 在弹出的窗口中输入以下命令(您可以复制后在窗口右键粘贴)，然后按回车键：
+    ```shell
+    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v FeatureSettingsOverride /t REG_DWORD /d 3 /f
+    reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v FeatureSettingsOverrideMask /t REG_DWORD /d 3 /f
+    ```
+3. 当您看到**两个** *操作成功完成* 字样时，重启电脑。
+4. 尝试注入Skeet。
+
+## 如何加载参数
+
+1. 首先找到您需要加载的参数，被保存好的参数通常是一个TXT文件。
+2. 用记事本或者其他文本编辑器，打开这个TXT文件，全选后复制。
+
+   ![1-select-all.png](../assets/images/gamesense/import-config/1-select-all.png)
+   ![2-copy-config.png](../assets/images/gamesense/import-config/2-copy-config.png)
+3. 在Skeet菜单中选择左侧 *保存* 按钮，点击进入。
+
+   ![3-gamesense-menu.png](../assets/images/gamesense/import-config/3-gamesense-menu.png)
+4. 点击 *Import from clipboard* 按钮，此时参数应该会被加载。
+
+   ![4-import-config.png](../assets/images/gamesense/import-config/4-import-config.png)
+5. 在此输入框中输入您要被保存的参数名称。
+
+   ![5-config-name.png](../assets/images/gamesense/import-config/5-config-name.png)
+6. 点击 *Save* 按钮保存参数。
+
+   ![6-save-config.png](../assets/images/gamesense/import-config/6-save-config.png)
+7. 如果下次注入时需要加载本参数，只需要在上方点击上次您输入的参数名称后点击 *Load* 按钮保存即可。
+   
+   ![7-load-config.png](../assets/images/gamesense/import-config/7-load-config.png)
 
 ## 在论坛中提示我已经被封禁怎么办？
 通常情况下，如果此时您还能够显示账号订阅，那么此时您应该是由于加速器IP被封禁导致的。这种情况下您只需要关闭加速器或者尝试更换加速器节点即可解决。
