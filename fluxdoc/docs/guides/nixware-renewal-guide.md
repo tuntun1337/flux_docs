@@ -12,7 +12,7 @@
 在产品选择框中点击 **Nixware (续费码)** 选项，并选择好您所需的订阅时间，如下图所示：
 ![buy.png](../assets/images/nixware/buy.png)
 
-勾选以下承诺框，然后点击您可以使用的付款方式，完成邀请码的购买。
+勾选以下承诺框，然后点击您可以使用的付款方式，完成续费码的购买。
 ![confirm_buy.png](../assets/images/nixware/confirm_buy.png)
 
 支付完成后，您将收到产品密钥，请妥善保存。

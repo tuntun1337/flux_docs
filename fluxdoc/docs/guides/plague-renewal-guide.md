@@ -31,5 +31,9 @@
 
 ---
 
+## 3. 下载Loader
+在论坛中找到 **Download** 板块，点击下载 Loader，如下图所示：
+![download_loader.png](../assets/images/plague/download_loader.png)
+
 完成以上步骤后，您已成功续费。
 如果在操作过程中遇到问题，请联系支持团队以获取帮助！

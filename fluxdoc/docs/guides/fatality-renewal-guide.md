@@ -15,7 +15,7 @@ Fatality是一个邀请制的论坛，在购买前请务必确认您已经注册
 在产品选择框中点击 **Fatality (续费码)** 选项，如下图所示：
 ![buy.png](../assets/images/fatality/buy.png)
 
-勾选以下承诺框，然后点击您可以使用的付款方式，完成邀请码的购买。
+勾选以下承诺框，然后点击您可以使用的付款方式，完成续费码的购买。
 ![confirm_buy.png](../assets/images/fatality/confirm_buy.png)
 
 支付完成后，您将收到产品密钥，请妥善保存。
