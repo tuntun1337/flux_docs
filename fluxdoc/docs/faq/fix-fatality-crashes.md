@@ -16,9 +16,11 @@
 1. 在Fatality菜单中，点击 *VISUALS* 选项卡。
 
     ![fix-crash-click-menu.png](../assets/images/fatality/fix-crash-click-menu.png)
+
 2. 点击左侧的 *Enemy* 选项卡。
 
     ![fix-crash-click-enemy.png](../assets/images/fatality/fix-crash-click-enemy.png)
+
 3. 将 *SHOT* 和 *BACKTRACK* 部分的所有选项修改为 *Disabled*。
 
     ![fix-crash-disable-shot-backtrack.png](../assets/images/fatality/fix-crash-disable-shot-backtrack.png)
