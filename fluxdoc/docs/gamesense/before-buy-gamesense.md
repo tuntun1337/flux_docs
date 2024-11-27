@@ -15,9 +15,9 @@ Flux HvH™是一个专注于提供高质量游戏体验的社区，我们的目
 
 | 邀请码           | 捆绑参数                                                                      | 价格   |
 |---------------|---------------------------------------------------------------------------|------|
-| Gamesense论坛邀请 | 无参数套餐                                                                     | 2550 |
-| Gamesense论坛邀请 | [82Lab Small8参数](https://www.yuque.com/u39580238/xa7g58/pratlhr3291u41qi) | 2850 |
-| Gamesense论坛邀请 | [82Lab Yuk9参数](https://www.yuque.com/u46499497/qaz9l1/xlyfo05ig8egh2l3)   | 2750 |
+| Gamesense论坛邀请 | 无参数套餐                                                                     | 2650 |
+| Gamesense论坛邀请 | [82Lab Small8参数](https://www.yuque.com/u39580238/xa7g58/pratlhr3291u41qi) | 2950 |
+| Gamesense论坛邀请 | [82Lab Yuk9参数](https://www.yuque.com/u46499497/qaz9l1/xlyfo05ig8egh2l3)   | 2850 |
 
 以上捆绑包含了Gamesense论坛邀请码和对应的参数，您可以根据自己的需求选择不同的套餐。
 
