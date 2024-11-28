@@ -13,13 +13,13 @@ Fatality是一个邀请制的论坛，在购买前请务必确认您已经注册
 [https://cshvh.cn/renewal](https://cshvh.cn/renewal)
 
 在产品选择框中点击 **Fatality (续费码)** 选项，如下图所示：
-![buy.png](../assets/images/fatality/buy.png)
+![buy.png](../assets/images/fatality/renewal/1-buy-fatality-code.png)
 
 勾选以下承诺框，然后点击您可以使用的付款方式，完成续费码的购买。
-![confirm_buy.png](../assets/images/fatality/confirm_buy.png)
+![confirm_buy.png](../assets/images/fatality/renewal/2-confirm-buy.png)
 
 支付完成后，您将收到产品密钥，请妥善保存。
-![after_buy.png](../assets/images/fatality/after_buy.png)
+![after_buy.png](../assets/images/fatality/renewal/3-save-code.png)
 
 ---
 
@@ -31,7 +31,7 @@ Fatality是一个邀请制的论坛，在购买前请务必确认您已经注册
 您可能需要登录，登录后您将会看到如下页面。
 
 您需要在标有 **Product key** 的输入框中输入您购买的产品密钥，然后点击 **Redeem** 按钮，如下图所示：
-![renewal.png](../assets/images/fatality/renewal.png)
+![renewal.png](../assets/images/fatality/renewal/4-redeem.png)
 至此，您的Fatality已经激活。
 
 ---
@@ -41,10 +41,10 @@ Fatality是一个邀请制的论坛，在购买前请务必确认您已经注册
 
 如果您需要下载CS2的Loader，请点击CS2板块的Download Loader板块。
 如果您需要下载CS:GO的Loader，请点击CS:GO板块的Download Loader板块。
-![download_loader.png](../assets/images/fatality/download_loader.png)
+![download_loader.png](../assets/images/fatality/renewal/5-download-loader.png)
 
 跳转后您将看到如下页面，点击下面的附件即可下载Loader。
-![threads.png](../assets/images/fatality/threads.png)
+![threads.png](../assets/images/fatality/renewal/6-download-thread.png)
 ---
 
 完成以上步骤后，您已成功续费并下载其注入器。

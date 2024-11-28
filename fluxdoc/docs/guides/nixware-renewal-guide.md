@@ -10,13 +10,13 @@
 [https://cshvh.cn/renewal](https://cshvh.cn/renewal)
 
 在产品选择框中点击 **Nixware (续费码)** 选项，并选择好您所需的订阅时间，如下图所示：
-![buy.png](../assets/images/nixware/buy.png)
+![buy.png](../assets/images/nixware/renewal/1-buy-code.png)
 
 勾选以下承诺框，然后点击您可以使用的付款方式，完成续费码的购买。
-![confirm_buy.png](../assets/images/nixware/confirm_buy.png)
+![confirm_buy.png](../assets/images/nixware/renewal/2-confirm-buy-code.png)
 
 支付完成后，您将收到产品密钥，请妥善保存。
-![after_buy.png](../assets/images/nixware/after_buy.png)
+![after_buy.png](../assets/images/nixware/renewal/3-save-code.png)
 
 ---
 
@@ -24,7 +24,7 @@
 
 进入官网后语言选项卡和购买选项卡如下图所示：
 
-![界面示例](../assets/images/nixware/select_language.png)
+![界面示例](../assets/images/nixware/renewal/4-select-language.png)
 
 ## 3. 进入购买界面激活密钥
 
@@ -32,9 +32,9 @@
 [https://nixware.cc/purchase-cheats](https://nixware.cc/purchase-cheats/)
 
 找到页面中的 **兑换码** 按钮，激活订阅，如下图所示：
-![click_redeem_code.png](../assets/images/nixware/click_redeem_code.png)
+![click_redeem_code.png](../assets/images/nixware/renewal/5-click-redeem.png)
 您会看到如下界面，输入您的购买密钥，点击 **兑换** 按钮：
-![redeem_code.png](../assets/images/nixware/redeem_code.png)
+![redeem_code.png](../assets/images/nixware/renewal/6-redeem-product.png)
 
 如果您没有显示验证码，请开启加速器。
 
@@ -46,7 +46,7 @@
 激活完成后您的 **用户面板** 会有如图选项。
 此时您只需下载Loader后打开即可。
 
-![finish.png](../assets/images/nixware/finish.png)
+![finish.png](../assets/images/nixware/renewal/7-finish.png)
 
 ---
 完成以上步骤后，您已成功续费并下载其注入器。

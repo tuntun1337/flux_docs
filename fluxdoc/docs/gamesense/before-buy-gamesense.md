@@ -9,7 +9,7 @@ Flux HvH™是一个专注于提供高质量游戏体验的社区，我们的目
 目前，Flux HvH™是Gamesense的官方合作伙伴。我们不仅提供邀请服务，也同时提供Gamesense的官方续费服务。
 
 [官方续费帖](https://gamesense.pub/forums/viewtopic.php?id=45009)
-![official_thread.png](../assets/images/gamesense/official_thread.png)
+![official_thread.png](../assets/images/gamesense/official-thread.png)
 
 ## Gamesense价格 & 套餐
 

@@ -16,15 +16,15 @@
 [https://cshvh.cn/renewal](https://cshvh.cn/renewal)
 
 在产品选择框中选择您要续费的产品，如下图所示：
-![select_products.png](../assets/images/manual/select_products.png)
+![select_products.png](../assets/images/manual/1-select-product.png)
 
 勾选以下承诺框，然后点击您可以使用的付款方式，完成下单。
-![confirm_buy.png](../assets/images/manual/confirm_buy.png)
+![confirm_buy.png](../assets/images/manual/2-confirm-buy.png)
 
 支付完成后，您将会被跳转至订单详情页面。
 您可以点击 *查询* 按钮来刷新您的订单状态。
 
-![after_buy.png](../assets/images/manual/after_buy.png)
+![after_buy.png](../assets/images/manual/3-check-progress.png)
 
 ## 2. 等待人工续费
 支付完成后，您的订单将会被推送至我们的抢单平台。

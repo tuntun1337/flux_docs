@@ -4,12 +4,12 @@
 1. 登录论坛后，点击上方的红色 *Premium* 按钮进入菜单。
 
    如果您找不到该按钮，那么说明您有可能没有有效的续费，请参考[人工自动续费教程](../guides/manual-renewal-guide.md)完成续费。
-   ![download_loader_1.png](../assets/images/gamesense/download_loader_1.png)
+   ![download_loader_1.png](../assets/images/gamesense/download-loader/1-click-premium.png)
 
 2. 在下方菜单中找到 *Download latest client* 按钮，点击下载注入器。
 
    请注意，您如果您需要下载CS2的注入器，请点击 *Download CS2* 按钮。如果您需要下载CS:GO的注入器，请点击 *Download CS:GO* 按钮。它们的注入器并不通用。
-   ![download_loader_2.png](../assets/images/gamesense/download_loader_2.png)
+   ![download_loader_2.png](../assets/images/gamesense/download-loader/2-download-loader.png)
 
    下载前请确保您的下载插件已经关闭(例如IDM、迅雷等)，否则可能会导致下载失败。Skeet注入器在5分钟内只能下载一次，如果本次下载失败，请等待5分钟后再次尝试。
 
@@ -40,17 +40,17 @@
 [找回密码](https://gamesense.pub/forums/login.php?action=forget)
 
 进入该页面后，输入您注册Gamesense使用的邮箱，完成验证码后，您将会收到一个带有新密码的邮件。按照新密码登录即可。
-![forgot_password.png](../assets/images/gamesense/forgot_password.png)
+![forgot_password.png](../assets/images/gamesense/forgot-password.png)
 如果收件箱中没有验证码，那么请检查垃圾箱或者其他文件夹，有时候验证码会被误判为垃圾邮件。
 
 ## 怎么修改密码？
 您可以通过以下步骤修改密码：
 1. 在登录后，点击上方的 *Profile* 按钮。
-![change_password_1.png](../assets/images/gamesense/change_password_1.png)
+![change_password_1.png](../assets/images/gamesense/change-password/1-click-profile.png)
 2. 找到 *Change Password* 按钮，点击进入修改密码页面。
-![change_password_2.png](../assets/images/gamesense/change_password_2.png)
+![change_password_2.png](../assets/images/gamesense/change-password/2-change-password.png)
 3. 在新的页面中，在上方输入您的旧密码，下方输入新密码和确认密码，点击 *Change Password* 按钮即可完成密码修改。
-![change_password_3.png](../assets/images/gamesense/change_password_3.png)
+![change_password_3.png](../assets/images/gamesense/change-password/3-input-password.png)
 
 请注意，密码最短为6位，且区分大小写。
 
@@ -104,7 +104,7 @@
 
 1. 在新电脑上注入，提示HWID错误。
 2. 在论坛中选择 *Premium*。
-![download_loader_1.png](../assets/images/gamesense/download_loader_1.png)
+![download_loader_1.png](../assets/images/gamesense/download-loader/1-click-premium.png)
 3. 此时您应该可以看到有此输入框。输入框中填写您的重置理由，您可以参考我们提供的这些理由。
 
    - 重装系统: Reinstalled Windows
@@ -118,7 +118,7 @@
    同时，还有可能会出现什么都没更换但是HWID被重置的情况，您可以使用：
    - 没有更换: Nothing changed
 
-   ![reset_hwid.png](../assets/images/gamesense/reset_hwid.png)
+   ![reset_hwid.png](../assets/images/gamesense/reset-hwid.png)
 4. 提交后，等待Gamesense管理员审核，无论是请求被同意还是拒绝，您都不会收到通知。因此请在24小时后在新电脑尝试注入Gamesense。
 
 ### 情况1
@@ -128,11 +128,11 @@
 您应该在期间留意论坛上的私信，可能会有Gamesense管理员发私信给你，要求你联系管理员。
 
 通常会要求你加入Discord然后开一个关于HWID重置的工单，然后按照管理员的要求提供相关信息即可。
-![forum_pm.png](../assets/images/gamesense/forum_pm.png)
+![forum_pm.png](../assets/images/gamesense/forum-pm.png)
 
 请注意: 所有Gamesense管理员的昵称都是绿色的，请不要相信任何其他颜色的人声称自己是管理员。
 
 ### 情况3
 没有管理员联系您，而且在新电脑上依然无法注入，那么您的HWID重置请求被拒绝了。
 您可以尝试加入Gamesense的Discord，然后在 #hwid-support-only 频道中开启一个新的工单。
-![create_ticket.png](../assets/images/gamesense/create_ticket.png)
+![create_ticket.png](../assets/images/gamesense/create-ticket.png)
