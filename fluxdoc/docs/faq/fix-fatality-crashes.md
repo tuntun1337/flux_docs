@@ -21,4 +21,4 @@
 4. 将 *Chams的 *Shot* 和 *Backtrack* 部分也关闭掉。
 
    ![fix-crash-disable-chams.png](../assets/images/fatality/fix-crash/4-disable-chams.png)
-5. 
+
