@@ -104,7 +104,9 @@
 
 1. 在新电脑上注入，提示HWID错误。
 2. 在论坛中选择 *Premium*。
-![download_loader_1.png](../assets/images/gamesense/download-loader/1-click-premium.png)
+
+   ![download_loader_1.png](../assets/images/gamesense/download-loader/1-click-premium.png)
+
 3. 此时您应该可以看到有此输入框。输入框中填写您的重置理由，您可以参考我们提供的这些理由。
 
    - 重装系统: Reinstalled Windows
@@ -116,9 +118,11 @@
    - 更换内存: Changed memory
    
    同时，还有可能会出现什么都没更换但是HWID被重置的情况，您可以使用：
+
    - 没有更换: Nothing changed
 
    ![reset_hwid.png](../assets/images/gamesense/reset-hwid.png)
+
 4. 提交后，等待Gamesense管理员审核，无论是请求被同意还是拒绝，您都不会收到通知。因此请在24小时后在新电脑尝试注入Gamesense。
 
 ### 情况1
