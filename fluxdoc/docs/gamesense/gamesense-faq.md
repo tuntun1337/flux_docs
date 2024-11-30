@@ -109,17 +109,17 @@
 
 3. 此时您应该可以看到有此输入框。输入框中填写您的重置理由，您可以参考我们提供的这些理由。
 
-   - 重装系统: Reinstalled Windows
-   - 更换主板: Changed motherboard
-   - 更换CPU: Changed CPU
-   - 更换主板和CPU: Changed motherboard and CPU
-   - 更换硬盘: Changed hard disk
-   - 更换显卡: Changed graphics card
-   - 更换内存: Changed memory
+     - 重装系统: Reinstalled Windows
+     - 更换主板: Changed motherboard
+     - 更换CPU: Changed CPU
+     - 更换主板和CPU: Changed motherboard and CPU
+     - 更换硬盘: Changed hard disk
+     - 更换显卡: Changed graphics card
+     - 更换内存: Changed memory
    
    同时，还有可能会出现什么都没更换但是HWID被重置的情况，您可以使用：
 
-   - 没有更换: Nothing changed
+     - 没有更换: Nothing changed
 
    ![reset_hwid.png](../assets/images/gamesense/reset-hwid.png)
 
